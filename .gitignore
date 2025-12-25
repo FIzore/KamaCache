@@ -1,0 +1,17 @@
+# IDE
+.idea/
+.vscode/
+
+# Go build
+bin/
+out/
+*.exe
+*.test
+
+# Go workspace
+go.work
+go.work.sum
+
+# OS
+.DS_Store
+Thumbs.db
